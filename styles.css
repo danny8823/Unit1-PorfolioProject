@@ -201,7 +201,7 @@ a.social:hover {
 }
 
 /* Style for Experience page */
-.expp {
+.exp-card {
    margin: 50px;
    padding: 30px 50px 50px;
    text-align: left;
@@ -211,6 +211,6 @@ a.social:hover {
    max-width: 1500px;
   }
 
-.expbody {
+.exp-body {
   font-family: 'Figtree', sans-serif;
 }
