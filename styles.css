@@ -23,7 +23,7 @@ a:hover {
 
 /* Section Styles */
 
-.main-nav {
+nav {
   width: 100%;
   background: black;
   min-height: 30px;
@@ -213,4 +213,11 @@ a.social:hover {
 
 .exp-body {
   font-family: 'Figtree', sans-serif;
+}
+
+/* Style for Hobby page */
+.hob-card {
+  border: 2px solid #0399ff;
+  border-radius: 5px;
+  background: white;
 }
